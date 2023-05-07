@@ -1,2 +1,2 @@
-# Logistic_Regression_Project
+# ML_Project
 Cardiovascular Disease
