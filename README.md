@@ -29,7 +29,7 @@ Machine learning has many applications in various industries, including healthca
 
 
 
-Why use machine learning algorithm for your business?
+"Why use machine learning algorithm for your business?"
 
 There are many reasons why businesses use machine learning algorithms. Here are a few:
 
