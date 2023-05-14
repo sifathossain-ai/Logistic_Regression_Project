@@ -1,7 +1,5 @@
-# Machine Learning Project
+# What is machine Learning ?  How it's work ?
 
-# What is machine Learning ? 
-# How it's work ?
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that involves developing algorithms that can learn from and make predictions or decisions based on data.
 
