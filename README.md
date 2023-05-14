@@ -1,7 +1,7 @@
 # Machine Learning Project
 
-What is machine Learning ? 
-How it's work ?
+# What is machine Learning ? 
+# How it's work ?
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that involves developing algorithms that can learn from and make predictions or decisions based on data.
 
@@ -29,7 +29,7 @@ Machine learning has many applications in various industries, including healthca
 
 
 
-"Why use machine learning algorithm for your business?"
+# Why use machine learning algorithm for your business?
 
 There are many reasons why businesses use machine learning algorithms. Here are a few:
 
